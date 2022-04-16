@@ -8,10 +8,13 @@ Features:
 
 -> Mars Rover and Apollo Details are also shown with video links.
 
--> In this APODs (Astronomy Picture of the Day) Viewing feature is available in which the user can see Daily Apods and also can search Apods in a range of dates.
+-> In this APODs (Astronomy Picture of the Day) Viewing feature is available in which the user can see Daily Apods and also can 
+   search Apods in a range of dates.
 
 -> It also Provides user to see the Near earth Asteroid Details.
 
 -> Technologies used:- JavaFx , REST APIs (NASA open APIs), JSON, HTTP, OOPs , FXML
+
+Project Video Link: https://drive.google.com/drive/folders/1t9eQFziU8Cu2iWUlsxH6hkEasyH1Kdum?usp=sharing
 
 
